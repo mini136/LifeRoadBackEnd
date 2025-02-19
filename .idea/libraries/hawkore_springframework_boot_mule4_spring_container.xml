@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="hawkore.springframework.boot.mule4.spring.container" type="repository">
+    <properties maven-id="org.hawkore.springframework.boot:mule4-spring-boot-container:3.0.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/hawkore/springframework/boot/mule4-spring-boot-container/3.0.0/mule4-spring-boot-container-3.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
