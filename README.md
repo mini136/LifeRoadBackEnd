@@ -87,9 +87,3 @@ Authorization: Bearer {tvuj-token}
 
 ---
 
-##  Licence
-
-MIT
- 
-**Autor**: LifeRoad Team 
-
