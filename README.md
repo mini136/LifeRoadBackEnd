@@ -31,8 +31,7 @@ spring.datasource.url=jdbc:mysql://localhost:3306/liferoad_db
 spring.datasource.username=root
 spring.datasource.password=heslo
 ```
-
-💡 **Nezapomeň vytvořit databázi ****`liferoad_db`**** před spuštěním!**
+**Nezapomeň vytvořit databázi ****`liferoad_db`**** před spuštěním!**
 
 ### ️ Spuštění aplikace
 
