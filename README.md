@@ -1,6 +1,6 @@
 # LifeRoad Database API
 
-## 📌 Popis projektu
+##  Popis projektu
 
 LifeRoad Database API je backendová aplikace napsaná ve Spring Boot, která poskytuje REST API pro správu uživatelských účtů, záznamy nálad uživatelů a správu "Fun Facts".
 
